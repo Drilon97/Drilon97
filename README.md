@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Drilon97
+- 👋 Hi, I’m @Drilon
 - 👀 I’m interested in things
-- 🌱 I’m currently learning Java/Angualr
+- 🌱 I’m currently learning Playwright/React
 
 <!---
 Drilon97/Drilon97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
